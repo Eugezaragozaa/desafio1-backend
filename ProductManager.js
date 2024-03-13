@@ -27,5 +27,34 @@ products.create({
         category: "indumentary",
         price: 7000,
         stock: 100
-})//crear 4 productos mas  
+})
+products.create({
+    title: "pantalon",
+    photo: "pantalon.jpg",
+    category: "indumentary",
+    price: 20000,
+    stock: 100
+});
+products.create({
+    title: "campera",
+    photo: "campera.jpg",
+    category: "indumentary",
+    price: 80000,
+    stock: 100
+});
+products.create({
+    title: "sweater",
+    photo: "sweater.jpg",
+    category: "indumentary",
+    price: 40000,
+    stock: 100
+});
+products.create({
+    title: "cinturon",
+    photo: "cinturon.jpg",
+    category: "indumentary",
+    price: 10000,
+    stock: 100
+})
+
 console.log (products.read())
