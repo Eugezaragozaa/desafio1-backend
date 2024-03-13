@@ -24,5 +24,13 @@ users.create({
     photo: "photo.png",
     email: "holamundo@gmail.com",
     password: "callefalsa123"
-})//crear un nuevo usuario 
+});
+
+users.create({
+    photo: "otherphoto.png",
+    email: "otheremail@gmail.com",
+    password: "calleverdadera456"
+});
+
+//crear un nuevo usuario 
 console.log (users.read())
