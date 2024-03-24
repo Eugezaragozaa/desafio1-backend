@@ -1,0 +1,128 @@
+[
+    {
+        "id": "f426c8cfcec28dbf3a98ca2d",
+        "photo": "photo.jpg",
+        "email": "florcita@gmail.com",
+        "password": "holamundo123",
+        "role": "admin"
+    },
+    {
+        "id": "0c00ce086b62f93563c0cc2f",
+        "photo": "photo.jpg",
+        "email": "emma_dj@gmail.com",
+        "password": "callefalsa123",
+        "role": "admin"
+    },
+    {
+        "id": "677ea27ef2a8dc67dc718b5e",
+        "photo": "photo.jpg",
+        "email": "fede.mdma@gmail.com",
+        "password": "calleverdadera456",
+        "role": "admin"
+    },
+    {
+        "id": "da8456ef7708d932fd079490",
+        "photo": "photo.jpg",
+        "email": "juana_reverbe@gmail.com",
+        "password": "Juanalomas123",
+        "role": "admin"
+    },
+    {
+        "id": "8a17c3c7b468b715ac804434",
+        "photo": "photo.jpg",
+        "email": "esmeralda.gomez@gmail.com",
+        "password": "0303456Esme.",
+        "role": "admin"
+    },
+    {
+        "id": "a132755890b8ed5c9097de43",
+        "photo": "photo.jpg",
+        "email": "franny.nannis@gmail.com",
+        "password": "Contra1seña2",
+        "role": "admin"
+    },
+    {
+        "id": "87ee0a161cac15c06c841dc5",
+        "photo": "photo.jpg",
+        "email": "florcita@gmail.com",
+        "password": "holamundo123",
+        "role": "admin"
+    },
+    {
+        "id": "077c3c260c8d62788c757b17",
+        "photo": "photo.jpg",
+        "email": "emma_dj@gmail.com",
+        "password": "callefalsa123",
+        "role": "admin"
+    },
+    {
+        "id": "079ebc30d07f8098a58c75e2",
+        "photo": "photo.jpg",
+        "email": "fede.mdma@gmail.com",
+        "password": "calleverdadera456",
+        "role": "admin"
+    },
+    {
+        "id": "a5846af3a471ca0474cca822",
+        "photo": "photo.jpg",
+        "email": "juana_reverbe@gmail.com",
+        "password": "Juanalomas123",
+        "role": "admin"
+    },
+    {
+        "id": "2236d2e2fa7ae73ccfc32d1c",
+        "photo": "photo.jpg",
+        "email": "esmeralda.gomez@gmail.com",
+        "password": "0303456Esme.",
+        "role": "admin"
+    },
+    {
+        "id": "e3650c0c22ff61a9f53a3556",
+        "photo": "photo.jpg",
+        "email": "franny.nannis@gmail.com",
+        "password": "Contra1seña2",
+        "role": "admin"
+    },
+    {
+        "id": "135f0454166b6dbaf44484d7",
+        "photo": "photo.jpg",
+        "email": "florcita@gmail.com",
+        "password": "holamundo123",
+        "role": "admin"
+    },
+    {
+        "id": "e6f6b0f7e14d27fe845db60c",
+        "photo": "photo.jpg",
+        "email": "emma_dj@gmail.com",
+        "password": "callefalsa123",
+        "role": "admin"
+    },
+    {
+        "id": "43228785924fd298450ba534",
+        "photo": "photo.jpg",
+        "email": "fede.mdma@gmail.com",
+        "password": "calleverdadera456",
+        "role": "admin"
+    },
+    {
+        "id": "8df6e042a6c95b318bc93b5d",
+        "photo": "photo.jpg",
+        "email": "juana_reverbe@gmail.com",
+        "password": "Juanalomas123",
+        "role": "admin"
+    },
+    {
+        "id": "a056fe975ebbf5cb4a33c401",
+        "photo": "photo.jpg",
+        "email": "esmeralda.gomez@gmail.com",
+        "password": "0303456Esme.",
+        "role": "admin"
+    },
+    {
+        "id": "bf39768a776dc06d127a30aa",
+        "photo": "photo.jpg",
+        "email": "franny.nannis@gmail.com",
+        "password": "Contra1seña2",
+        "role": "admin"
+    }
+]

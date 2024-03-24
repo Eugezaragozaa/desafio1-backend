@@ -1,0 +1,402 @@
+[
+    {
+        "id": "012c6e62c5358622d65be611",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "20387b7e147059bc9bc84386",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "58ea714802d90bfd214a04eb",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "041e77c53c7f4dbb4e50b605",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "39e2dc419bd0f53ed71cebd9",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "522847beb16fdd606b920f8c",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "562b075006c14c02b99c8fdc",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "42935336cbceca79a59de5bb",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "692b4c6a44b4d85a37c0169e",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "c137212f5bd2fe1c74f7ff1a",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "b937c18a806051e286d653c4",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "ce59e2769352487a3594d402",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "7143f14fa32a1d60caee0846",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "5e971f0d8d63db37e3ad16ef",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "907a1966a354bc6b2d28f284",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "6620be43529268c8b249df2e",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "156703ef9df2ee741e824e1e",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "3a5547fbdec68b3c1dd578f0",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "85c5c68daeaa02e57aa5a319",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "6b15a1ae20f44f78e0e4b20c",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "3c1a75ab276965ee159c5067",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "3aa9d255471e09ab1250e528",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "d980a7747b37fcdb6c12fa18",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "6577dd45fbea01e1e6da913d",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "d23e79c65ef9eee12ea684bb",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "72fc7832af7ca11f979c3955",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "c0dfe73c1927c1c859ccf140",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "3e0099733ad8e0572cc13990",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "5310a2043997370a5436bab1",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "aab9e574f4a7cde830dfef9b",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "b1bd47bc64db7b7926177bab",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "f5f44c55837b4682756b2242",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "e7fb2ffc905c2febcec6bf97",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "81f89bee7c67ba51625480e3",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "2e6804f92f2cb5d86b08b77e",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "78549a416329bd5cd5f022a1",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "7f38382a0d3b9363cee6e1db",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "18a3dc27f7111707164eb93d",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "e1a3abb1badeae7eb1b2703b",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "9498fba2096d03ad96a9c1df",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "02ff0310c8290e74feb821c7",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "1647b8f30c87413c171f006e",
+        "title": "remera",
+        "photo": "remera.jpg",
+        "category": "indumentary",
+        "price": 7000,
+        "stock": 100
+    },
+    {
+        "id": "8ec1facc808d2d44106785ef",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "5d524de601c774f42a237dbe",
+        "title": "buzo",
+        "photo": "buzo.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "29c1cc58302be452e71afd8c",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "92a6ce685787bbf26701b9a8",
+        "title": "sweater",
+        "photo": "sweater.jpg",
+        "category": "indumentary",
+        "price": 20000,
+        "stock": 100
+    },
+    {
+        "id": "e8ea3342006bc0c4bb7678d0",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "bc3d61948bef4017b28e57cf",
+        "title": "campera",
+        "photo": "campera.jpg",
+        "category": "indumentary",
+        "price": 15000,
+        "stock": 100
+    },
+    {
+        "id": "e499671311e0b3b89c7637a9",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    },
+    {
+        "id": "60af2dc3151e0f50010d4216",
+        "title": "pantalon",
+        "photo": "pantalon.jpg",
+        "category": "indumentary",
+        "price": 25000,
+        "stock": 100
+    }
+]
